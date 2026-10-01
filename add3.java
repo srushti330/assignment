@@ -1,11 +1,9 @@
-public class add3 {
-    
-}public class add{
+public class add3{
     public static void main(String[] args) {
         int a=10;
         int b=20;
         int c=30;
         int d=40;
-        System.out.println(a+d+c);
+        System.out.println(a+c+b+d);
     }
 }
